@@ -3,3 +3,7 @@ Idea storage system
 
 - SQL interface to scikit-learn etc...
 http://pyparsing.wikispaces.com/file/view/simpleSQL.py
+
+- Drone stuf
+8266 on a drone : rubber pineapple? wifi gooseberry? blackbirdberry?
+https://medium.com/@tomac/deauthentication-attack-and-other-wifi-hacks-using-an-esp8266-module-14f9142b063d
