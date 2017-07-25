@@ -1,0 +1,2 @@
+# gitspiration
+Idea storage system
