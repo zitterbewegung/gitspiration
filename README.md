@@ -1,4 +1,6 @@
 # gitspiration
+Purpose of this git repo is to collect various links and ideas from the web.
+
 Idea storage system
 
 - SQL interface to scikit-learn etc...
