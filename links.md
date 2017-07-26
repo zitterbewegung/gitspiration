@@ -7,3 +7,5 @@ Food 101 trained with Coreml
 http://web.archive.org/web/20051026183139/http://jpn00.konami.co.jp/products/mgs2_sub/japanese/alldogtags/present/snd_win/mgs2_sound.zip
 
 https://www.slideshare.net/AmazonWebServices/wks401-deploy-a-deep-learning-framework-on-amazon-ecs-and-ec2-spot-instances
+
+https://github.com/awslabs/ecs-deep-learning-workshop
