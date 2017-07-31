@@ -15,3 +15,12 @@ http://hackaday.com/2014/09/26/esp8266-distance-testing/
 
 
 - Dataknife (machinne learning packager and scaffolding system)
+
+- Meta: Make gitspriation a real tool
+  Email links to gitspiration syncs to pinboard.
+  Remind you creates an issue or alert that emails you
+  
+- Printed daily briefing
+   Emailed to you
+   optional podcast / voice version
+   Input RSS
