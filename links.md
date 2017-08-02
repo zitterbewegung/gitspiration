@@ -9,3 +9,5 @@ http://web.archive.org/web/20051026183139/http://jpn00.konami.co.jp/products/mgs
 https://www.slideshare.net/AmazonWebServices/wks401-deploy-a-deep-learning-framework-on-amazon-ecs-and-ec2-spot-instances
 
 https://github.com/awslabs/ecs-deep-learning-workshop
+
+https://airbnb.design/anotherlens/
