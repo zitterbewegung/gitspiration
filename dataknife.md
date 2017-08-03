@@ -49,9 +49,17 @@ I got the idea from a comment referring to a blog post on Hacker news. Others wo
 
 For instance lets say you want to integrate a core ml model
 you would do the following
-dk get resnet
-dk integrate resnet coreml
+dk get resnet-coreml
 
+And dk would create a file and output the code to integrate it in your app. Also the resnet coreml file would be put in the current working directory
+Or lets say you want to do mnist with tensor flow
+
+dk get data mnist
+dk create project
+
+1. Which framework?
+[X] Tensorflow
+Caffe
 Categories
 Select the category (or categories) that best apply to your project.
 Dataset
