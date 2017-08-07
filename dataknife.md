@@ -82,5 +82,10 @@ How long do you expect your project to take? Sketch out a couple of milestones a
 What are the very first steps you will take on the first day of this project?
 
 What will this grant allow you to do that you otherwise wouldn't be able to do?
-
+Using these resources below and also having contacts that could help us integrate these products into the platform.
+$20,000 in cloud credits per winner
+Sponsoring 5 grants
+$18,000 in platform credit and $5,000 in human labeling
+50% off first $15k in Scale API spend
+250 Tesla K80 GPU hours per winner
 Submit Application
