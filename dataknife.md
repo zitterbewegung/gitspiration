@@ -45,6 +45,7 @@ We will make a tool that will be the Ruby on Rails for Data Science. We will enf
 Project description
 Describe your project, including: where you got the idea, how you think others might use it, and how it is new/different/better than what already exists. This is the main answer we use to judge applications. 
 https://hyperdash.io/
+https://www.graylog.org/
 I got the idea from a comment referring to a blog post on Hacker news. Others would use it for creating new data science projects such as model creation and engineering. It is new because not only does it enforce project structure (like cookiecutter data science) but also allow for scaffolding of frameworks.
 
 For instance lets say you want to integrate a core ml model
