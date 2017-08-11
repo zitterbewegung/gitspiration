@@ -14,3 +14,5 @@ https://airbnb.design/anotherlens/
 
 
 https://github.com/collarchoke/ovpn-mode
+
+https://github.com/vahidk/EffectiveTensorflow#cookbook
