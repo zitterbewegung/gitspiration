@@ -1,0 +1,62 @@
+I have been working through dataquest.io.  I am currently going through this course specialization https://www.deeplearning.ai . As a side project I am creating a web / mobile app that identifies recipes from food Also, I have worked on Kaggle and done to their tutorials.
+I have also setup various Neural Networks on linux (Voxnet https://github.com/dimatura/voxnet). I have gone through Tensorflow for Poets.
+
+
+Currently I have an project which I am terming data knife (the interface would be called 'dk').
+I want to make a project that could be described as "Ruby on Rails for Data Science. What I mean by this I a project that would do the following
+1. Enforce a Standard Directory Structure ( similar to cookie cutter-data-science)
+2. Packaging of ML models and allow them to be to be distributed easily
+3. Enforcement of immutability of data and keeping track of all transformations
+4. Ease of deployment of Models to production services (CoreML on a iPhone or a web service using AWS Lambda).
+5. Allow for people to download common datasets that are relevant
+
+The examples below would be aided by either decorators or other metadata embedded in the system so that the proper functions could be called (deploy and test would be the primary users of that information.
+
+The way it would work would be we would have actions like as follows
+
+For instance lets say you want to integrate a core ml model
+you would do the following
+dk get resnet-coreml
+
+And dk would download the model, verify that it works and then create a file and output the code to integrate it in your app. Also the resnet coreml file would be put in the current working directory
+
+Other verbs would be getting data like for instance getting the mnist dataset 
+
+Or lets say you want to do mnist with tensor flow
+dk new-project mnist-tutorial
+
+This would involve a set of questions like
+Would you like to install a Framework?
+
+>Yes
+ Which one?
+1.Scikit learn
+2.Tensorflow
+3. pytorch
+
+cd mnist-tutorial
+dk get data mnist
+would put mnist in your data directory
+Then the tool would output code for you to load that data .
+
+dk create test
+Would create a test directory for testing your model and or API
+
+Lastly if you want to deploy this you could do
+
+dk deploy aws
+
+and it would attempt to deploy your service.
+
+
+
+Weekly mentorship with checkins per week work the best. I think good traits for a mentor would be open to questions, set reasonable deadlines, tell me if my approach to the problem has to be changed.
+
+
+As a class project I investigated a lambda calculus with self distributive properties. I wasn't able to finish this while I was in school but I created an interpreter of the language.
+I created a UUID generator in Scheme. It was downloaded thousands of times. I had no bug reports from it because it only did UUID generation. When I googled it I found people that used my package. I worked on this problem because while I was working on a Scheme web framework to allow for RSS generation they thought it would be a good library.
+I tried to do a startup using Machine Learning where you would identify 3d Models by shapes. I was able to create an Elastic Search instance that would have the models and allow it for search. I was in the process of automating it 100% but I ran out of time and money to do that.
+I was designing an App that would identify if a food had nuts or not. After communicating that app on HN they said that would open me up to a lot of legal liabilities and do harm to the users. I pivoted to an app that tells you recipes from a picture (recipict) and I am getting very close to releasing it.
+
+
+I currently work at an Insurance Company as a Full Stack developer. Data Science and web development get me excited. I play the Piano, write poetry, and create music. I'm currently trying to learn Organ pieces by Bach. I have been programming since High School.
